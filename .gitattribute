@@ -1,2 +1,2 @@
-* linguist-vendored
-*.ps1 linguist-vendored=false
+Example/* linguist-vendored
+*.ps1 linguist-language=Powershell
